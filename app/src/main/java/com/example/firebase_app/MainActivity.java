@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private Button msavebtn;
     FirebaseDatabase database;
     DatabaseReference ref;
+    private Button x;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
